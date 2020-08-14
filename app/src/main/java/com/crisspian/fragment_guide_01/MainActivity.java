@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         validador = true;
     }
 
+    
     public void cerrarFragmento(View view) {
         this.onBackPressed();
         binding.boton1.setText("Aparece Picachu");
