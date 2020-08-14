@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment_guide_01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">fragmento 1</string>
+    <string name="descripcion">descripcion</string>
+    <string name="boton1">Aparece Picachu</string>
+</resources>
